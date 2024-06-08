@@ -2,8 +2,8 @@
 /**
  * binary_tree_preorder - Goes through binary tree using pre-order traversal
  * @tree: pointer to the root node of the tree to traverse
- * @func - pointer to a function to a call for each node
- *  value in the node must be passed as a parameter tp the func function
+ * @func: pointer to a function to a call for each node
+ * The value in the node must be passed as a parameter to this function
  * Return: void
  * if tree or func is NULL, do nothing
  */
