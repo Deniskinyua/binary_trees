@@ -17,7 +17,7 @@ if (parent == NULL)
 return (NULL);
 }
 created_node = binary_tree_node(parent, value);
-if (created_node == null)
+if (created_node == NULL)
 {
 return (NULL);
 }
